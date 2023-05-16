@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/react-pig-lifecycle/static/css/main.c3d5249d.css",
-    "main.js": "/react-pig-lifecycle/static/js/main.7417701e.js",
+    "main.js": "/react-pig-lifecycle/static/js/main.c6611a63.js",
     "index.html": "/react-pig-lifecycle/index.html",
     "main.c3d5249d.css.map": "/react-pig-lifecycle/static/css/main.c3d5249d.css.map",
-    "main.7417701e.js.map": "/react-pig-lifecycle/static/js/main.7417701e.js.map"
+    "main.c6611a63.js.map": "/react-pig-lifecycle/static/js/main.c6611a63.js.map"
   },
   "entrypoints": [
     "static/css/main.c3d5249d.css",
-    "static/js/main.7417701e.js"
+    "static/js/main.c6611a63.js"
   ]
 }
