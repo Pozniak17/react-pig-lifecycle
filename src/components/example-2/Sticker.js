@@ -1,10 +1,10 @@
 import { CardWrapper, Image, Label } from 'components/Sticker.styled';
 
-export const Sticker = ({ sticker: { img, label }, onSelect, isSelected }) => {
+export const Sticker = ({ sticker: { img, label } }) => {
   return (
-    <CardWrapper onClick={onSelect}>
+    <CardWrapper>
       <Image src={img} alt={label} />
-      {isSelected && <Label>{label}</Label>}
+      <Label>{label}</Label>
     </CardWrapper>
   );
 };
